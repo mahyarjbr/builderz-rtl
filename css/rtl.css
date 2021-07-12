@@ -1,0 +1,14 @@
+.dropdown-menu {
+    text-align: start !important;
+    float: right !important;
+    left: initial !important;
+    right: 0 !important;
+  }
+
+  .direction-ltr{
+      direction: ltr !important;
+      
+     
+  }
+
+  
